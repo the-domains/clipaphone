@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CLIPAPHONE]]></title>
         <description><![CDATA[CLIPAPHONE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clipaphone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 18:56:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 18:58:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clipaphone/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78deb23d-d5dc-43cf-a3c1-630eba2a21b6.gif">]]></description>
+            <link>https://thegrid.ai/clipaphone/91959f69-fcf7-4c48-a1fe-ce1fd115d38b/index.html</link>
+            <guid isPermaLink="false">91959f69-fcf7-4c48-a1fe-ce1fd115d38b</guid>
+            <pubDate>Mon, 28 Mar 2016 18:57:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Your World through Your Eyes!]]></title>
             <description><![CDATA[<h1>Your World through Your Eyes!</h1>]]></description>
-            <link>undefined2e06c66f-e469-4913-8c9b-76161858cd5c/index.html</link>
+            <link>https://thegrid.ai/clipaphone/2e06c66f-e469-4913-8c9b-76161858cd5c/index.html</link>
             <guid isPermaLink="false">2e06c66f-e469-4913-8c9b-76161858cd5c</guid>
             <pubDate>Mon, 28 Mar 2016 18:56:37 GMT</pubDate>
         </item>
