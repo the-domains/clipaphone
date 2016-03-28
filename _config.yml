@@ -1,0 +1,28 @@
+name: CLIPAPHONE
+favicon: null
+layout_spectrum: 0.0561779176350683
+typography_spectrum: 0.7320052017457783
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8786050567869097
+  lightness: 0.37874387414194643
+  saturation: 0.8951394041068852
+  rhythmicContrast: 0.23215035907924175
+purpose: []
